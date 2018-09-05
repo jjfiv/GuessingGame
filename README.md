@@ -3,6 +3,8 @@ Smith College / CSC212 / P0 Starter Code
 
 ## How to import this project into Eclipse
 
+There are a lot of steps here! Don't try to memorize them. Whenever you click next, or open a menu, see if you can read it, guess what you should do next, and confirm with these steps. Doing it this way will help you get through it quicker for future assignments.
+
 1. Go to the "File" menu and choose "Import"
 2. Expand the Git Folder and choose "Projects from Git"
 3. Click "Next"
