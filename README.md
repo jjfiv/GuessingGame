@@ -33,8 +33,13 @@ There are a lot of steps here! Don't try to memorize them. Whenever you click ne
 ## Implement the rest of the game!
 Remember, type to learn syntax and cite! Use the [solution as example code](https://gist.github.com/jjfiv/767a8041868caae861278659abc063ac).
 
-## Challenge (Optional!)
-See if you can a print statement "That was a very good guess!" if the user is within 10 or so of the correct answer.
+## Challenges (Optional!)
+
+These are edits that your classmates and I have discussed, consider it a nice way to make this exercise and sample code more active and interesting.
+
+1. Make the text messages much sassier.
+1. Tell the user "That guess is out of range" if their guess is too high or too low.
+1. See if you can a print statement "That was a very good guess!" if the user is within 10 or so of the correct answer.
 
 ## Create a Zip file to upload to Moodle
 
