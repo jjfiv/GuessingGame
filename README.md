@@ -33,6 +33,9 @@ There are a lot of steps here! Don't try to memorize them. Whenever you click ne
 ## Implement the rest of the game!
 Remember, type to learn syntax and cite! Use the [solution as example code](https://gist.github.com/jjfiv/767a8041868caae861278659abc063ac).
 
+## Challenge (Optional!)
+See if you can a print statement "That was a very good guess!" if the user is within 10 or so of the correct answer.
+
 ## Create a Zip file to upload to Moodle
 
 1. Go to the "File" menu and choose "Export".
