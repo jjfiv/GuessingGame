@@ -1,9 +1,11 @@
 # GuessingGame
 Smith College / CSC212 / P0 Starter Code
 
-## How to import this project into Eclipse
+This opening assignment is worth half of a regular assignment (50 points) in total. Most of it is to practice using our new tools.
 
-There are a lot of steps here! Don't try to memorize them. Whenever you click next, or open a menu, see if you can read it, guess what you should do next, and confirm with these steps. Doing it this way will help you get through it quicker for future assignments.
+## How to import this project into Eclipse (=10)
+
+There are a lot of steps here! Don't try to memorize them, just practice. Whenever you click next, or open a menu, see if you can read it, guess what you should do next, and confirm with these steps. Doing it this way will help you get through it quicker for future assignments.
 
 1. Go to the "File" menu and choose "Import"
 2. Expand the Git Folder and choose "Projects from Git"
@@ -20,7 +22,7 @@ There are a lot of steps here! Don't try to memorize them. Whenever you click ne
 13. Click "Finish"
 14. Right-Click on the new project that showed up in the "Package Explorer" on the left. Select "Configure > Convert to Maven Project".
 
-## Find and run the code!
+## Find and run the code! (=10)
 
 1. Expand the "GuessingGame" folder, expand the "src/main/java" and "(default package)" folders.
 16. Double-Click on ``GuessingGame.java``
@@ -30,18 +32,17 @@ There are a lot of steps here! Don't try to memorize them. Whenever you click ne
     - Right-Click and choose "Run As > Java Application"
 18. The "Console" tab on the bottom should show you the output of the program. (When you implement the rest of the game, you will also need to type here... the cursor looks like it's in the wrong place sometimes but don't worry.)
     
-## Implement the rest of the game!
+## Implement the rest of the game! (=10)
 Remember, type to learn syntax and cite! Use the [solution as example code](https://gist.github.com/jjfiv/767a8041868caae861278659abc063ac).
 
-## Challenges (Optional!)
+## Challenge: Improve the Game (=10)
 
-These are edits that your classmates and I have discussed, consider it a nice way to make this exercise and sample code more active and interesting.
+Although we haven't discussed Java syntax, we can identify things that are familiar: loops, if statements, etc.
 
-1. Make the text messages much sassier.
-1. Tell the user "That guess is out of range" if their guess is too high or too low.
-1. See if you can a print statement "That was a very good guess!" if the user is within 10 or so of the correct answer.
+1. (5) Tell the user "That guess is out of range" if their guess is too high or too low.
+1. (5) See if you can a print statement "That was a very good guess!" if the user is within 10 or so of the correct answer. (Think about using the absolute value of their error!)
 
-## Create a Zip file to upload to Moodle
+## Create a Zip file to upload to Moodle (=10)
 
 1. Go to the "File" menu and choose "Export".
 2. Expand the "General" folder.
