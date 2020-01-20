@@ -3,6 +3,16 @@ Smith College / CSC212 / P0 Starter Code
 
 This opening assignment is worth half of a regular assignment (50 points) in total. Most of it is to practice using our new tools.
 
+## Fiddle with Eclipse Settings
+
+Maybe you want Dark Mode?
+
+### Disable insertion triggers except 'Enter'
+
+Recent versions of Eclipse autocomplete when you press the space bar, which sometimes means replacing something you've typed with something else! It's very frustrating. By going to ``Eclipse -> Preferences (Mac)`` or ``Window -> Preferences (Windows)``, you can find the ``Java > Editor > Content Assist`` (as shown "fixed" in the image below) and turn this off!
+
+![Content Assist Menu](FixEclipseCompletion.png)
+
 ## How to import this project into Eclipse (=10)
 
 There are a lot of steps here! Don't try to memorize them, just practice. Whenever you click next, or open a menu, see if you can read it, guess what you should do next, and confirm with these steps. Doing it this way will help you get through it quicker for future assignments.
