@@ -3,18 +3,21 @@ Smith College / CSC212 / P0 Starter Code
 
 This opening assignment is worth half of a regular assignment (50 points) in total. Most of it is to practice using our new tools.
 
-## Fiddle with Eclipse Settings
+## Find your Eclipse Settings
 
 You can open the preferences menu by going to the top of your screen (in Eclipse) and finding the appropriate menu:
 
 - ``Eclipse -> Preferences (Mac)``
 - ``Window -> Preferences (Windows)``
 
-### Maybe you want Dark Mode?
+### (optional) Maybe you want Dark Mode?
 
 Click on ``General > Appearance`` as shown below, and you can choose a theme. You need to then ``Apply and Close`` and restart Eclipse for it to fully apply.
 
-### Disable insertion triggers except 'Enter'
+![General Appearance Themes Menu](EclipseDarkMode.png)
+
+
+### (recommended) Disable insertion triggers except 'Enter'
 
 Recent versions of Eclipse autocomplete when you press the space bar, which sometimes means replacing something you've typed with something else! It's very frustrating. , you can find the ``Java > Editor > Content Assist`` (as shown "fixed" in the image below) and turn this off!
 
