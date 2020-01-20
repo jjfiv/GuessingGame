@@ -5,11 +5,18 @@ This opening assignment is worth half of a regular assignment (50 points) in tot
 
 ## Fiddle with Eclipse Settings
 
-Maybe you want Dark Mode?
+You can open the preferences menu by going to the top of your screen (in Eclipse) and finding the appropriate menu:
+
+- ``Eclipse -> Preferences (Mac)``
+- ``Window -> Preferences (Windows)``
+
+### Maybe you want Dark Mode?
+
+Click on ``General > Appearance`` as shown below, and you can choose a theme. You need to then ``Apply and Close`` and restart Eclipse for it to fully apply.
 
 ### Disable insertion triggers except 'Enter'
 
-Recent versions of Eclipse autocomplete when you press the space bar, which sometimes means replacing something you've typed with something else! It's very frustrating. By going to ``Eclipse -> Preferences (Mac)`` or ``Window -> Preferences (Windows)``, you can find the ``Java > Editor > Content Assist`` (as shown "fixed" in the image below) and turn this off!
+Recent versions of Eclipse autocomplete when you press the space bar, which sometimes means replacing something you've typed with something else! It's very frustrating. , you can find the ``Java > Editor > Content Assist`` (as shown "fixed" in the image below) and turn this off!
 
 ![Content Assist Menu](FixEclipseCompletion.png)
 
