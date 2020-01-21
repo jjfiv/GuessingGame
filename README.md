@@ -19,7 +19,7 @@ Click on ``General > Appearance`` as shown below, and you can choose a theme. Yo
 
 ### (recommended) Disable insertion triggers except 'Enter'
 
-Recent versions of Eclipse autocomplete when you press the space bar, which sometimes means replacing something you've typed with something else! It's very frustrating. , you can find the ``Java > Editor > Content Assist`` (as shown "fixed" in the image below) and turn this off!
+Recent versions of Eclipse autocomplete when you press the space bar, which sometimes means replacing something you've typed with something else! It's very frustrating. You can find this setting ``Java > Editor > Content Assist`` (as shown ***"broken"*** in the image below) and check the box for easier to use autocomplete!
 
 ![Content Assist Menu](FixEclipseCompletion.png)
 
