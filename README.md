@@ -23,7 +23,7 @@ Recent versions of Eclipse autocomplete when you press the space bar, which some
 
 ![Content Assist Menu](FixEclipseCompletion.png)
 
-## How to import this project into Eclipse (=10)
+## How to import this project into Eclipse
 
 There are a lot of steps here! Don't try to memorize them, just practice. Whenever you click next, or open a menu, see if you can read it, guess what you should do next, and confirm with these steps. Doing it this way will help you get through it quicker for future assignments.
 
@@ -42,7 +42,7 @@ There are a lot of steps here! Don't try to memorize them, just practice. Whenev
 13. Click "Finish"
 14. Right-Click on the new project that showed up in the "Package Explorer" on the left. Select "Configure > Convert to Maven Project".
 
-## Find and run the code! (=10)
+## Find and run the code!
 
 1. Expand the "GuessingGame" folder, expand the "src/main/java" and "(default package)" folders.
 16. Double-Click on ``GuessingGame.java``
@@ -52,7 +52,7 @@ There are a lot of steps here! Don't try to memorize them, just practice. Whenev
     - Right-Click and choose "Run As > Java Application"
 18. The "Console" tab on the bottom should show you the output of the program. (When you implement the rest of the game, you will also need to type here... the cursor looks like it's in the wrong place sometimes but don't worry.)
     
-## Implement the rest of the game! (=10)
+## Implement the rest of the game! (=20)
 Remember, type to learn syntax and cite! Use the [solution as example code](https://gist.github.com/jjfiv/767a8041868caae861278659abc063ac).
 
 ## Challenge: Improve the Game (=10)
@@ -74,3 +74,7 @@ Although we haven't discussed Java syntax, we can identify things that are famil
 6. Make sure "Save in zip format" is checked.
 7. Click "Finish"
 8. Upload that zip file to Moodle!
+
+## Fill out the Google Form self-rubric! (=10)
+
+Check off all the things you did in [the form](https://forms.gle/ryKt9Dxki1eUG9fMA).
