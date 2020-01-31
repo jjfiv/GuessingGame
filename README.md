@@ -70,7 +70,7 @@ Although we haven't discussed Java syntax, we can identify things that are famil
 4. Click "Next"
 5. Make sure the project you are exporting is checked.
 6. Fill in the "To archive file:" field with "YourEmail-P0.zip" e.g., I do "jjfoley-P0.zip"
-    You can use the "Browse" button to choose another place for it, like your desktop.
+    ***You probably should use the "Browse" button to choose another place for it, like your desktop.*** -- you may get an error if you don't.
 6. Make sure "Save in zip format" is checked.
 7. Click "Finish"
 8. Upload that zip file to Moodle!
